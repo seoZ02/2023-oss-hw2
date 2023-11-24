@@ -7,11 +7,12 @@
 
 
 - **채널 메시지 전송 시 Terminal창 결과**
+
+
 날짜와 시간(datetime)을 문자열로 출력하는 코드 작성, 텔레그램 메시지 전송 시 전송 시간을 터미널 창에 띄워줌
 
     time = now.strftime("%H:%M:%S")
     print("[",time,"]","Send a message")
     await send_telegram_message()
-
 
 <p align = "left"><img src = "assets/terminal.png" width = "450"></p>
