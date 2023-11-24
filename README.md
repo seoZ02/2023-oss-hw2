@@ -13,4 +13,4 @@
     print("[",time,"]","Send a message")
     await send_telegram_message()
 
-<p align = "left"><img src = "assets/terminal.png" width = "200"></p>
+<p align = "left"><img src = "assets/terminal.png" width = "400"></p>
