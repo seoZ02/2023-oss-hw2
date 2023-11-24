@@ -1,5 +1,5 @@
 # 2023-oss-hw2
-[Telegram] schedule alarm bot 개발
+[Telegram] schedule alarm bot 개발 - 인공지능전공 202111616 이서정
 
 
 ## ✨작동 결과
